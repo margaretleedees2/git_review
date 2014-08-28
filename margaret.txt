@@ -10,3 +10,21 @@ git add
 
 git commit - m "comment"
 	commits the add and creates the local Master
+
+git branch name_of_branch
+	creates a branch
+
+git checkout name_of_branch
+	checks out the branch
+
+
+To push your stuff up to the remote repo:
+
+Within github.com, create a repo with the name "new_repo"
+Copy the SSH/HTTPS:
+
+git remote add origin https://..../new_repo
+git remove -v 
+	checks that the remote has been created
+
+git push origin master
