@@ -1,1 +1,12 @@
 hello world
+this a review of stuff I really should know
+once I've made a file, I say, 
+
+git init
+	git init creates the tracking .git file
+
+git add
+	adds the stuff to staging
+
+git commit - m "comment"
+	commits the add and creates the local Master
